@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/exit.png</file>
+        <file>icons/file.png</file>
+        <file>icons/save-file-option.png</file>
+        <file>icons/sos.png</file>
+        <file>toolbar icons/Color.png</file>
+        <file>toolbar icons/Color Picker.png</file>
+        <file>toolbar icons/Crop.png</file>
+        <file>toolbar icons/Eraser.png</file>
+        <file>toolbar icons/Fonts.png</file>
+        <file>toolbar icons/Pen.png</file>
+        <file>toolbar icons/Notebook.png</file>
+        <file>toolbar icons/Paint-brush.png</file>
+        <file>toolbar icons/Pencil.png</file>
+        <file>toolbar icons/Magnifier.png</file>
+        <file>toolbar icons/3d.png</file>
+        <file>toolbar icons/Copy.png</file>
+        <file>toolbar icons/Cut.png</file>
+        <file>toolbar icons/Fill.png</file>
+        <file>toolbar icons/Frame.png</file>
+        <file>toolbar icons/Marker.png</file>
+        <file>toolbar icons/Minus.png</file>
+        <file>toolbar icons/Paste.png</file>
+        <file>toolbar icons/Plus.png</file>
+        <file>toolbar icons/Redo.png</file>
+        <file>toolbar icons/Resize.png</file>
+        <file>toolbar icons/Rotate.png</file>
+        <file>toolbar icons/Select.png</file>
+        <file>toolbar icons/Shape.png</file>
+        <file>toolbar icons/Share.png</file>
+        <file>toolbar icons/Size.png</file>
+        <file>toolbar icons/Text-Box.png</file>
+        <file>toolbar icons/Undo.png</file>
+        <file>toolbar icons/User-Finder.png</file>
+        <file>toolbar icons/Voice.png</file>
+    </qresource>
+</RCC>

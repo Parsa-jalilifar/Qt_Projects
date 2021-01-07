@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/exit.png</file>
+        <file>icons/help.png</file>
+        <file>icons/icons8-search-48.png</file>
+        <file>newsImages/image.png</file>
+        <file>newsImages/japan-olympics-ioc.png</file>
+        <file>newsImages/rcmp-mock-vehicle.png</file>
+        <file>newsImages/storm-iota.png</file>
+        <file>newsImages/syria-diplomacy-minister.png</file>
+    </qresource>
+</RCC>
