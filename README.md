@@ -1,6 +1,6 @@
 # Qt_Projects
 
-This repository include small Qt projects that were used to make windows application.
+This repository includes small Qt projects that were used to make windows application.
 
 - Ws1 -> A simple Qt program that displays a button the text “Hello BTH545” 
 - Ws2 -> Slider app 
